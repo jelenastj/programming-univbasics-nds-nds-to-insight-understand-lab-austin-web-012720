@@ -8,7 +8,7 @@ def pretty_print_nds(nds)
   pp nds
   nil
 end
-
+nds
 def print_first_directors_movie_titles
  
 end
