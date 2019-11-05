@@ -14,4 +14,5 @@ def print_first_directors_movie_titles
  while row_index<movies.count do
    puts movies[row_index]
    row_index+=1
+ end
 end
